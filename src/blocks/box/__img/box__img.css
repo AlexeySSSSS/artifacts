@@ -1,0 +1,6 @@
+.box__img {
+  background: rgb(11, 25, 25);
+  width: calc(100% - 197px);
+  position: relative;
+  overflow: hidden;
+}

@@ -1,0 +1,23 @@
+.hero__img {
+  border: none;
+  width: 180px;
+  background: url(../../../images/Arrow.png) no-repeat 100% 100%;
+  background-position: left 117px top 5px;
+  color: rgb(186, 226, 73);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  cursor: url(../../../images/pointer.svg) 1 1, default;
+  transition-duration: 0.4s;
+}
+
+.hero__img:hover {
+  background: url(../../../images/Arrow_hover.png) no-repeat 100% 100%;
+  background-position: left 117px top 5px;
+  color: rgb(145, 172, 70);
+}

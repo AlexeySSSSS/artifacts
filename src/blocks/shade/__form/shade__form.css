@@ -1,0 +1,9 @@
+.shade__form {
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+  height: 183px;
+  margin-left: 165px;
+  margin-top: 22px;
+  row-gap: 25px;
+}

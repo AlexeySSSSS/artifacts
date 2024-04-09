@@ -1,0 +1,13 @@
+.box__text {
+  /* h3 */
+  color: rgb(29, 47, 48);
+  font-family: Cormorant;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 17px;
+  margin-left: 16px;
+  margin-bottom: 7px;
+}

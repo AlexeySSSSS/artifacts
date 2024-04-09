@@ -1,0 +1,33 @@
+.shade__btn {
+  /* primary_green */
+  background: rgb(186, 226, 73);
+  border: none;
+  /* p1_bold */
+  color: rgb(11, 25, 25);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0%;
+  width: 145px;
+  height: 49px;
+  text-align: center;
+  cursor: url(../../../images/pointer.svg) 1 1, default;
+  transition-duration: 0.4s;
+}
+
+.shade__btn:hover {
+  background: rgb(145, 172, 70);
+  color: rgb(11, 25, 25);
+}
+
+.shade__btn:focus {
+  outline: 1px solid rgb(131, 164, 64);
+  outline-offset: 3px;
+}
+
+.shade__btn:active {
+  background: rgb(104, 139, 5);
+  color: rgb(11, 25, 25);
+  outline: none;
+}

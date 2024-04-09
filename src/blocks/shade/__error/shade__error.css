@@ -1,0 +1,14 @@
+.shade__error {
+  position: absolute;
+  top: 268px;
+  color: red;
+  text-align: left;
+  font-size: 12px;
+  margin-top: 3px;
+  display: none;
+}
+
+.shade__error:nth-child(2) {
+  position: absolute;
+  top: 198px;
+}

@@ -1,0 +1,34 @@
+.header__button {
+  width: 24px;
+  height: 24px;
+  padding: 15px;
+  background: url(../../../images/log-in.png) no-repeat 100% 100%;
+  border: none;
+  background-position: center;
+  cursor: url(../../../images/pointer.svg) 1 1, default;
+  transition-duration: 0.4s;
+}
+
+.header__button:hover {
+  width: 24px;
+  height: 24px;
+  padding: 15px;
+  background: url(../../../images/log-in_hover.png) no-repeat 100% 100%;
+  border: none;
+  background-position: center;
+}
+
+.header__button:active {
+  width: 24px;
+  height: 24px;
+  padding: 15px;
+  background: url(../../../images/log-in_actice.png) no-repeat 100% 100%;
+  border: none;
+  background-position: center;
+}
+
+.header__button:focus {
+  box-sizing: border-box;
+  /* green_focus */
+  border: 1px solid rgb(131, 164, 64);
+}

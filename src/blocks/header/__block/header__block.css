@@ -1,0 +1,7 @@
+.header__block {
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% - 1085px);
+  min-width: 65px;
+  height: 31px;
+}

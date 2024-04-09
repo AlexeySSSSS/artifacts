@@ -1,0 +1,6 @@
+.cards__info {
+  position: relative;
+  border: 1px solid rgb(11, 25, 25);
+  background: rgb(29, 47, 48);
+  height: 311px;
+}

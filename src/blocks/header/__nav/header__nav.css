@@ -1,0 +1,6 @@
+.header__nav {
+  display: flex;
+  gap: calc(100% - 641px);
+  width: calc(100% - 513px);
+  min-width: 370px;
+}

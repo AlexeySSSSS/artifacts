@@ -1,0 +1,11 @@
+.cards__text {
+  /* p1_regular */
+  color: rgb(137, 157, 157);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 7px 0 0 15px;
+}

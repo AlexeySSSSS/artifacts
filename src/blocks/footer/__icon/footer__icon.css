@@ -1,0 +1,8 @@
+.footer__icon {
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% - 1254px);
+  min-width: 120px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+}

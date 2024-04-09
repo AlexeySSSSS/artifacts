@@ -1,0 +1,13 @@
+.box__title {
+  /* h2 */
+  color: rgb(255, 255, 255);
+  font-family: Cormorant;
+  font-style: italic;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 60px;
+  margin-bottom: 29px;
+}

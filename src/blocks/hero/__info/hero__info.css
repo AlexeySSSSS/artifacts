@@ -1,0 +1,5 @@
+.hero__info {
+  padding: 112px 0 117px calc(100% - 1275px);
+  width: calc(100% - 810px);
+  min-width: 554px;
+}

@@ -1,0 +1,48 @@
+.cards__btn {
+  position: absolute;
+  top: 243px;
+  left: 15px;
+  background: none;
+  border: 1px solid rgb(186, 226, 73);
+  /* p1_regular */
+  color: rgb(186, 226, 73);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  padding: 9px 28px 9px 28px;
+  cursor: url(../../../images/pointer.svg) 1 1, default;
+  transition-duration: 0.4s;
+}
+
+.cards__btn:focus {
+  outline: 1px solid rgb(131, 164, 64);
+  outline-offset: 3px;
+}
+
+.cards__btn:hover {
+  /* primary_green */
+  background: rgb(186, 226, 73);
+  /* p1_regular */
+  color: rgb(11, 25, 25);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  border: none;
+}
+
+.cards__btn:active {
+  /* green_active(click) */
+  background: rgb(104, 139, 5);
+  /* p1_regular */
+  color: rgb(11, 25, 25);
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0%;
+  border: none;
+}

@@ -1,0 +1,6 @@
+.shade__opacity {
+  /* background */
+  position: relative;
+  background: rgba(29, 47, 48, 0.7);
+  padding-bottom: 61px;
+}

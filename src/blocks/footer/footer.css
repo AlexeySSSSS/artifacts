@@ -1,0 +1,6 @@
+.footer {
+  /* background_shade */
+  background: rgb(11, 25, 25);
+  display: flex;
+  justify-content: center;
+}

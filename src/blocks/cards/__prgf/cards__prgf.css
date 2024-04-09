@@ -1,0 +1,11 @@
+.cards__prgf {
+  /* h3 */
+  color: rgb(255, 255, 255);
+  font-family: Cormorant;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 150%;
+  letter-spacing: 0%;
+  margin: 0;
+  text-align: center;
+}

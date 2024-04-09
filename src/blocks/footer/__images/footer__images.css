@@ -1,0 +1,25 @@
+.footer__images {
+  cursor: url(../../../images/pointer.svg) 1 1, default;
+  transition-duration: 0.4s;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.footer__images:focus {
+  outline: 1px solid rgb(131, 164, 64);
+  outline-offset: 2px;
+}
+
+.footer__images:active {
+  outline: none;
+  outline-offset: none;
+}
+
+#Vector:hover {
+  fill: rgb(186, 226, 73);
+}
+
+#Vector:active {
+  fill: rgb(104, 139, 5);
+}

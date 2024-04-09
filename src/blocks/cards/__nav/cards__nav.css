@@ -1,0 +1,10 @@
+.cards__nav {
+  display: grid;
+  grid-template-columns: 44px 103px 44px;
+  margin-top: 24px;
+  align-items: center;
+  width: calc(100% - 1250px);
+  min-width: 140px;
+  margin-left: auto;
+  margin-right: auto;
+}

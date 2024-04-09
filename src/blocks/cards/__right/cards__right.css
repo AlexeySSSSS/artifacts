@@ -1,0 +1,35 @@
+.cards__right {
+  background: url(../../../images/Arrow__right.svg) 100% 100% no-repeat;
+  border: none;
+  cursor: pointer;
+  background-position: top 3px left 4px;
+  padding: 5px;
+  margin: 9px auto 0 0;
+  width: 35px;
+  height: 20px;
+  cursor: url(../../../images/pointer.svg) 1 1, default;
+  transition-duration: 0.4s;
+}
+
+.cards__right:hover {
+  background: url(../../../images/Right.png) 100% 100% no-repeat;
+  background-position: top 3px left 4px;
+  margin: 9px auto 0 0;
+  width: 45px;
+  height: 22px;
+}
+
+.cards__right:focus {
+  border: 1px solid rgb(131, 164, 64);
+  margin: 6px auto 0 0;
+}
+
+.cards__right:active {
+  background: url(../../../images/right_active.png) 100% 100% no-repeat;
+  border: none;
+  background-position: top 2px left 4px;
+  padding: 5px;
+  margin: 9px auto 0 0;
+  width: 35px;
+  height: 20px;
+}

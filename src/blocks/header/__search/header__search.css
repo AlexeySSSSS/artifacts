@@ -1,0 +1,9 @@
+.header__search {
+  width: 24px;
+  height: 24px;
+  padding: 15px;
+  background: url(../../../images/search.png) no-repeat 100% 100%;
+  border: none;
+  background-position: center;
+  cursor: url(../../../images/pointer.svg) 1 1, default;
+}

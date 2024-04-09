@@ -1,0 +1,6 @@
+.box__info {
+  /* primary_green */
+  background: rgb(186, 226, 73);
+  width: calc(100% - 828px);
+  min-width: 255px;
+}
